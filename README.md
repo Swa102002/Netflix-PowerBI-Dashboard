@@ -6,7 +6,7 @@ This project is an interactive Netflix content analysis dashboard developed usin
 
 The dashboard provides insights into Netflix movies and TV shows based on content type, ratings, genres, countries, release years, and content growth over time.
 
----
+
 
 ## 🎯 Project Objectives
 
@@ -19,7 +19,6 @@ The dashboard provides insights into Netflix movies and TV shows based on conten
 * Compare content across different release decades.
 * Create an interactive business intelligence dashboard.
 
----
 
 ## 🛠️ Tools & Technologies
 
